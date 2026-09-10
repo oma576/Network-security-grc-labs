@@ -1,6 +1,6 @@
 # Network Security & GRC Labs — Hacking the Workforce (Self-Directed)
 
-This repo documents five hands-on labs I completed while working through the *Hacking the Workforce* network security / GRC pre-apprenticeship curriculum on my own — without access to the program's official Zoom sessions or premium sandbox platform. I built my own lab environment (VirtualBox + Ubuntu Server, Cisco Packet Tracer) and, for the labs where the program's public materials were limited to a short topic preview, designed my own equivalent practical exercises covering the same learning objectives.
+This repo documents five hands-on labs I completed while working through the *Hacking the Workforce* network security / GRC pre-apprenticeship curriculum. I built my own lab environment (VirtualBox + Ubuntu Server, Cisco Packet Tracer) and, designed my own equivalent practical exercises covering the same learning objectives.
 
 Each lab folder contains my full worksheet — write-ups, terminal/Packet Tracer screenshots, and the policy documents I drafted — converted to Markdown for easy reading here on GitHub.
 
