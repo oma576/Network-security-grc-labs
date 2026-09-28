@@ -1,5 +1,3 @@
-
-Lab4 readme · MD
 # Lab 4: The Handshake & Availability
  
 **OSI Layer 4 (TCP)** · Hacking the Workforce Network Security & GRC curriculum
