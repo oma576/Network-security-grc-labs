@@ -92,6 +92,7 @@ Host A (`10.0.10.128`) and Host B (`10.0.10.64`) talk normally with a `/24` mask
  
 - `10.0.10.0/25` (.0 – .127) contains **Host B**
 - `10.0.10.128/25` (.128 – .255) contains **Host A**
+
 They're now on **different subnets**, so they can't reach each other directly. A **router** (or Layer 3 switch) is required between them. (`10.0.10.128` is also the network address of its new subnet, so it would need a new IP anyway.)
  
 ### Verification on my VM
