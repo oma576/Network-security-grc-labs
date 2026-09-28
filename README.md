@@ -24,6 +24,4 @@ Each lab folder contains my full worksheet — write-ups, terminal/Packet Tracer
 
 [Networking Quick Reference](reference/) — a study sheet I built covering binary/hex conversion and subnetting fundamentals.
 
-## Why self-directed labs for 3–5?
 
-The public preview material for weeks 3–5 was limited to a one-paragraph topic description per lab, since full instructions and answer keys are gated behind the program's premium platform. Rather than wait, I built my own practical exercises covering the same stated learning objectives (VLSM/VLANs/access control; TCP/NAT/service hardening; routing/ARP/discovery/compliance), scoped to match the depth of the labs before them.
