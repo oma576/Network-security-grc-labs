@@ -83,6 +83,7 @@ Switch# show cdp neighbors detail
 - **Device ID and platform:** `Switch`, a Cisco 2960
 - **Interfaces:** connected from local port `Fa0/5` to its `Fa0/1`
 - It also showed the full IOS software version, which tells an attacker exactly which vulnerabilities to look up
+
 **Should CDP/LLDP run on every port?** No, only on trusted switch-to-switch uplinks. Anyone who plugs a laptop into an unused wall port would receive the same information. Following **least privilege**, a port with no legitimate network device attached has no reason to broadcast it, and unused ports should be disabled (as in my Lab 1 policy).
  
 ---
